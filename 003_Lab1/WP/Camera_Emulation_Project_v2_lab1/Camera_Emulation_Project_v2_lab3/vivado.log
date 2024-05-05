@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2014.2
+# SW Build 932637 on Wed Jun 11 13:24:38 MDT 2014
+# IP Build 924643 on Fri May 30 09:20:16 MDT 2014
+# Start of session at: Sun Jan 04 23:37:45 2015
+# Process ID: 4764
+# Log file: C:/Users/Schumann/FH/Xilinx/Vivado_projects/Version2014_2/Camera_Emulation_Project_v2_lab3/vivado.log
+# Journal file: C:/Users/Schumann/FH/Xilinx/Vivado_projects/Version2014_2/Camera_Emulation_Project_v2_lab3\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:\Users\Schumann\FH\Xilinx\Vivado_projects\Version2014_2\Camera_Emulation_Project_v2_lab3\Camera_Emulation_Project_v2_lab3.xpr}
+INFO: [Project 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'C:/Users/Schumann/FH/Xilinx/Vivado_projects/Version2014_2/Camera_Emulation_Project_v2_lab3'
+CRITICAL WARNING: [Board 49-4] Problem parsing board_part file - C:/Xilinx/Vivado/2014.2/data/boards/board_parts/kintex7/kc705/0.9/board_part.xml, The board part 'xc7k325tffg900-2' is either not supported or invalid.
+CRITICAL WARNING: [Board 49-4] Problem parsing board_part file - C:/Xilinx/Vivado/2014.2/data/boards/board_parts/kintex7/kc705/1.0/board_part.xml, The board part 'xc7k325tffg900-2' is either not supported or invalid.
+CRITICAL WARNING: [Board 49-4] Problem parsing board_part file - C:/Xilinx/Vivado/2014.2/data/boards/board_parts/zynq/zc706/0.9/board_part.xml, The board part 'xc7z045ffg900-2' is either not supported or invalid.
+CRITICAL WARNING: [Board 49-4] Problem parsing board_part file - C:/Xilinx/Vivado/2014.2/data/boards/board_parts/zynq/zc706/1.0/board_part.xml, The board part 'xc7z045ffg900-2' is either not supported or invalid.
+INFO: [Project 1-313] Project file moved from 'C:/Users/Schumann3/h_da/Vivado_2014_2_projects/lab3/Camera_Emulation_Project_v2_lab3' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2014.2/data/ip'.
+open_project: Time (s): cpu = 00:00:09 ; elapsed = 00:00:06 . Memory (MB): peak = 658.684 ; gain = 47.344
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Jan 04 23:40:24 2015...
