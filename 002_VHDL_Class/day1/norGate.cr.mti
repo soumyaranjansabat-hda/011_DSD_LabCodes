@@ -1,0 +1,7 @@
+E:/HDA_Lectures/001_Repository/011_DSD/011_DSD_LabCodes/002_VHDL_Class/day1/impl_norGate.vhd {1 {vcom -work gate -2002 -explicit -stats=none E:/HDA_Lectures/001_Repository/011_DSD/011_DSD_LabCodes/002_VHDL_Class/day1/impl_norGate.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity norGate
+-- Compiling architecture mynorGate of norGate
+
+} {} {}}

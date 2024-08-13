@@ -1,0 +1,52 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/HDA_Lectures/001_Repository/011_DSD/011_DSD_LabCodes/002_VHDL_Class/day1
+Exor_gate
+Z0 w1719059194
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 1
+Z3 dE:/HDA_Lectures/001_Repository/011_DSD/011_DSD_LabCodes/002_VHDL_Class/day2
+Z4 8E:/HDA_Lectures/001_Repository/011_DSD/011_DSD_LabCodes/002_VHDL_Class/day2/delayModel_XOR.vhd
+Z5 FE:/HDA_Lectures/001_Repository/011_DSD/011_DSD_LabCodes/002_VHDL_Class/day2/delayModel_XOR.vhd
+l0
+L5 1
+VgZ@aSlSIA;>4T^XZ6HAUX1
+!s100 :]AmNo:MhAaCnNHIGMl<12
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1719059232
+!i10b 1
+Z8 !s108 1719059232.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|E:/HDA_Lectures/001_Repository/011_DSD/011_DSD_LabCodes/002_VHDL_Class/day2/delayModel_XOR.vhd|
+Z10 !s107 E:/HDA_Lectures/001_Repository/011_DSD/011_DSD_LabCodes/002_VHDL_Class/day2/delayModel_XOR.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Amygate
+R1
+R2
+DEx4 work 8 xor_gate 0 22 gZ@aSlSIA;>4T^XZ6HAUX1
+!i122 1
+l12
+Z13 L10 5
+VR>6W6e]U[]:aH<TJn_^QU1
+Z14 !s100 oZSlOIZzaI[O8Zoa0J04[3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
